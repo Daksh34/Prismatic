@@ -1,7 +1,7 @@
 {
     "courses": [{
         "CourseID": 1,
-        "ImageUrl": "",
+        "ImageUrl": "assets/images/CourseAIML.jpg",
         "Name": "PGP - Artificial Intelligence and Machine Learning",
         "Duration": "12 Months",
         "ModeOfDelivery": "Fully Online",
@@ -320,7 +320,7 @@
     },
     {
         "CourseID": 2,
-        "ImageUrl": "",
+        "ImageUrl": "assets/images/CourseDS.jpg",
         "Name": "PGP - Data Science",
         "Duration": "12 Months",
         "ModeOfDelivery": "Fully Online",
@@ -640,7 +640,7 @@
     },
     {
         "CourseID": 3,
-        "ImageUrl": "",
+        "ImageUrl": "assets/images/CourseDL.jpeg",
         "Name": "PGP - Advanced Deep Learning ",
         "Duration": "6 Months",
         "ModeOfDelivery": "Fully Online",
@@ -894,7 +894,7 @@
     },
     {
         "CourseID": 5,
-        "ImageUrl": "",
+        "ImageUrl": "assets/images/CourseAnalysis.jpg",
         "Name": "Predictive Analytics with Python",
         "Duration": "4 Months",
         "ModeOfDelivery": "Fully Online",
