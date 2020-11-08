@@ -1,6 +1,5 @@
 {
-    "courses": [
-        {
+    "courses": [{
             "CourseID": 1,
             "ImageUrl": "assets/images/CourseAIML.jpg",
             "Name": "PGP - Artificial Intelligence and Machine Learning",
@@ -17,17 +16,6 @@
                 "Machine Learning",
                 "Deep Learning",
                 "Python"
-            ],
-            "CourseIncluds": [
-                "12-month Program",
-                "Personalized course curriculum",
-                "Live and engaging online mentoring sessions",
-                "Individual doubt-resolution with expert mentors, quiz and more",
-                "150+ hours of online learning content",
-                "12+ hands on practical case studies guided by industry experts",
-                "5 Industry projects including a capstone project",
-                "Professional Certificate on completion",
-                "1:1 career guidance, resume writing and interview preparation"
             ],
             "WhatToLearn": [
                 "What is Machine Learning?",
@@ -50,8 +38,7 @@
                 "Learning strategies with Reinforcement Learning.",
                 "Handling uncertainty with Bayesian Deep Learning"
             ],
-            "Modules": [
-                {
+            "Modules": [{
                     "RecID": 1,
                     "ModuleName": "Python Programming Fundamental",
                     "Topics": [
@@ -351,17 +338,6 @@
                 "Python",
                 "Data Science"
             ],
-            "CourseIncluds": [
-                "12-month Program",
-                "Personalized course curriculum",
-                "Live and engaging online mentoring sessions",
-                "Individual doubt-resolution with expert mentors, quiz and more",
-                "150+ hours of online learning content",
-                "12+ hands on practical case studies guided by industry experts",
-                "5 Industry projects including a capstone project",
-                "Professional Certificate on completion",
-                "1:1 career guidance, resume writing and interview preparation"
-            ],
             "WhatToLearn": [
                 "The Data Science Toolkit",
                 "Foundations of Data Science.",
@@ -383,8 +359,7 @@
                 "Learning strategies with Reinforcement Learning.",
                 "Natural Language Processing"
             ],
-            "Modules": [
-                {
+            "Modules": [{
                     "RecID": 1,
                     "ModuleName": "Python Programming Fundamentals",
                     "Topics": [
@@ -635,6 +610,7 @@
                         "Assignment: MNIST Digits Classification"
                     ]
                 },
+
                 {
                     "RecID": 16,
                     "ModuleName": "Natural Language Processing",
@@ -682,17 +658,6 @@
                 "Deep Learning",
                 "Python"
             ],
-            "CourseIncluds": [
-                "6-month Program",
-                "Personalized course curriculum",
-                "Live and engaging online mentoring sessions",
-                "Individual doubt-resolution with expert mentors, quiz and more",
-                "50+ hours of online learning content",
-                "5 hands on practical case studies guided by industry experts",
-                "3 Industry projects including a capstone project",
-                "Professional Certificate on completion",
-                "1:1 career guidance, resume writing and interview prepapration"
-            ],
             "WhatToLearn": [
                 "Mathematics and Statistics for Deep Learning",
                 "Machine Learning foundations.",
@@ -705,9 +670,9 @@
                 "Natural Language Processing.",
                 "Learning strategies with Reinforcement Learning.",
                 "Handling uncertainty with Bayesian Deep Learning."
+
             ],
-            "Modules": [
-                {
+            "Modules": [{
                     "RecID": 1,
                     "ModuleName": "Python Programming Fundamentals",
                     "Topics": [
@@ -849,19 +814,7 @@
                 "AI",
                 "Machine Learning",
                 "Deep Learning",
-                "Chatbot",
-                "IBM",
-                "Watson"
-            ],
-            "CourseIncluds": [
-                "4-month Program",
-                "Personalized course curriculum",
-                "Live and engaging online mentoring sessions",
-                "Individual doubt-resolution with expert mentors, quiz, assignments and more",
-                "30+ hours of online learning content",
-                "2 hands on case studies",
-                "A capstone project to build your own chatbot",
-                "Professional Certificate on completion"
+                "Chatbot", "IBM", "Watson"
             ],
             "WhatToLearn": [
                 "What are Chatbots?",
@@ -872,9 +825,9 @@
                 "Watson Discovery: Smart search.",
                 "Putting it all together.",
                 "Building your own chatbot!."
+
             ],
-            "Modules": [
-                {
+            "Modules": [{
                     "RecID": 1,
                     "ModuleName": "Introduction to Chatbots",
                     "Topics": [
@@ -961,16 +914,6 @@
                 "Python",
                 "Data Science"
             ],
-            "CourseIncluds": [
-                "4-month Program",
-                "Personalized course curriculum",
-                "Live and engaging online mentoring sessions",
-                "Individual doubt-resolution with expert mentors, quiz, assignments and more",
-                "30+ hours of online learning content",
-                "4 hands on practical case studies guided by industry experts",
-                "2 Industry projects including a capstone project",
-                "Professional Certificate on completion"
-            ],
             "WhatToLearn": [
                 "Foundations of Predictive Modeling",
                 "What is Machine Learning? ",
@@ -980,9 +923,9 @@
                 "Selecting a model and tuning hyperparameters using cross-validation.",
                 "The main challenges of Machine Learning, in particular underfitting and overfitting (the bias/variance tradeoff).",
                 "The most common learning algorithms: Linear and Polynomial Regression, Logistic Regression."
+
             ],
-            "Modules": [
-                {
+            "Modules": [{
                     "RecID": 1,
                     "ModuleName": "Python Programming Fundamentals",
                     "Topics": [
